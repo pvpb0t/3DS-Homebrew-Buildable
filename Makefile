@@ -31,9 +31,9 @@ include $(DEVKITARM)/3ds_rules
 #     - icon.png
 #     - <libctru folder>/default_icon.png
 #---------------------------------------------------------------------------------
-APP_TITLE		:= 	Artemis
-APP_DESCRIPTION	:=	The homie himself
-APP_AUTHOR		:=	pvpb0t
+APP_TITLE		:= 	
+APP_DESCRIPTION	:=	
+APP_AUTHOR		:=	
 
 TARGET		:=	$(notdir $(CURDIR))
 BUILD		:=	build
